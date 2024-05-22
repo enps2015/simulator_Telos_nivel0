@@ -1,0 +1,51 @@
+id_Produto,Nome_Produto,Categoria,Preco
+1,Smartphone X,Eletrônicos,1299.99
+2,Camiseta Manga Curta,Vestuário,49.90
+3,Notebook Gamer,Eletrônicos,4999.99
+4,Tênis Esportivo,Calçados,149.90
+5,Livro de Ficção Científica,Livros,39.90
+6,Smartwatch,Eletrônicos,299.90
+7,Blusa de Moletom,Vestuário,99.90
+8,Fones de Ouvido Bluetooth,Eletrônicos,199.90
+9,Cafeteira Elétrica,Eletrodomésticos,249.90
+10,Churrasqueira Elétrica,Eletrodomésticos,399.90
+11,Bicicleta Aro 26,Esporte e Lazer,349.90
+12,Bola de Futebol,Esporte e Lazer,49.90
+13,Raquete de Tênis,Esporte e Lazer,199.90
+14,Televisor 50 polegadas,Eletrônicos,2499.99
+15,Geladeira Duplex,Eletrodomésticos,1999.90
+16,Fogão Cooktop,Eletrodomésticos,599.90
+17,Sofá 3 lugares,Móveis,1299.99
+18,Cama Queen Size,Móveis,1999.99
+19,Mesa de Jantar 6 cadeiras,Móveis,899.90
+20,Micro-ondas,Eletrodomésticos,299.90
+21,Aspirador de Pó,Eletrodomésticos,149.90
+22,Kit Churrasco,Eletrodomésticos,199.90
+23,Tenda Camping,Esporte e Lazer,249.90
+24,Bolsa de Viagem,Acessórios,199.90
+25,Carteira Masculina,Acessórios,99.90
+26,Relógio de Pulso,Acessórios,299.90
+27,Óculos de Sol,Acessórios,149.90
+28,Colar Feminino,Acessórios,49.90
+29,Brinco Feminino,Acessórios,39.90
+30,Boné Esportivo,Acessórios,49.90
+31,Chaleira Elétrica,Eletrodomésticos,99.90
+32,Kit Ferramentas,Casa e Jardim,149.90
+33,Escada Dobrável,Casa e Jardim,199.90
+34,Caixa de Som Bluetooth,Eletrônicos,249.90
+35,Câmera Fotográfica,Eletrônicos,599.90
+36,Drone com Câmera,Eletrônicos,1499.99
+37,Videogame,Eletrônicos,2999.99
+38,Livro de Autoajuda,Livros,29.90
+39,Livro de História em Quadrinhos,Livros,49.90
+40,Livro Infantil,Livros,39.90
+41,Jogo de Tabuleiro,Brinquedos,99.90
+42,Boneca,Brinquedos,49.90
+43,Carrinho de Brinquedo,Brinquedos,39.90
+44,Pelúcia,Brinquedos,29.90
+45,Kit de Pintura,Brinquedos,49.90
+46,Massageador Elétrico,Saúde e Bem-Estar,249.90
+47,Monitor de Frequência Cardíaca,Saúde e Bem-Estar,199.90
+48,Balança Digital,Saúde e Bem-Estar,99.90
+49,Garrafa Térmica,Acessórios,49.90
+50,Chapéu de Praia,Acessórios,29.90
